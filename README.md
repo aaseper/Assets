@@ -1,2 +1,4 @@
 # Assets
- Public domain assets to ease usability on new-born PCs.
+Publicly accessible resources to enhance usability on new-born PCs.
+
+*Made by aaseper*
